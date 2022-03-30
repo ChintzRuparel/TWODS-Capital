@@ -21,3 +21,6 @@ API used - `Tradingview Light Weight Charts`
 TWODS CAPITAL Deploy STATUS - [![Netlify Status](https://api.netlify.com/api/v1/badges/325fc2ee-a5f4-4203-858b-d775b16ec1d2/deploy-status)](https://app.netlify.com/sites/twodscapital/deploys)
 
 `CONSIDER THIS AS A GENERAL RELEASE V1.0.1`
+
+
+TWODS Capital Website Status - <a href="https://status-twods.freshstatus.io/">Status</a>
