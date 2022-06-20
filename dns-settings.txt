@@ -1,0 +1,37 @@
+DNS Records  
+Just For Records
+NO REAL CONSEQUENCES 
+
+#1
+twodscapital.in
+3600
+IN
+NETLIFY
+twodscapital.netlify.app
+
+#2
+www.twodscapital.in
+3600
+IN
+NETLIFY
+twodscapital.netlify.app
+
+#3
+twodscapital.in
+3600
+IN
+NETLIFYv6
+twodscapital.netlify.app
+
+#4
+www.twodscapital.in
+3600
+IN
+NETLIFYv6
+twodscapital.netlify.app
+
+#5
+twodscapital.in
+3600 seconds
+TXT
+google-site-verification=UpAjJ1q1pDOhtIMGgPUCqPGYjk0rwr30ZRCSlytqM4w
