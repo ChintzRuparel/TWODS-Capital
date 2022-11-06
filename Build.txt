@@ -1,27 +1,24 @@
-4:33:16 PM: Build ready to start
-4:33:25 PM: build-image version: d7b3dbfb0846505993c9a131894d1858074c90b4 (focal)
-4:33:25 PM: build-image tag: v4.10.1
-4:33:25 PM: buildbot version: fe6512288e75c8fa5aadaebb51ed1f96e9314fd4
-4:33:25 PM: Fetching cached dependencies
-4:33:25 PM: Starting to download cache of 43.6MB
-4:33:26 PM: Finished downloading cache in 642.125208ms
-4:33:26 PM: Starting to extract cache
-4:33:26 PM: Finished extracting cache in 285.431634ms
-4:33:26 PM: Finished fetching cache in 974.439399ms
-4:33:26 PM: Starting to prepare the repo for build
-4:33:26 PM: Preparing Git Reference refs/heads/main
-4:33:27 PM: Parsing package.json dependencies
-4:33:27 PM: No build steps found, continuing to publishing
-4:33:27 PM: Starting to deploy site from '/'
-4:33:27 PM: Creating deploy tree 
-4:33:27 PM: Creating deploy upload records
-4:33:27 PM: 1 new files to upload
-4:33:27 PM: 0 new functions to upload
-4:33:27 PM: Starting post processing
-4:33:28 PM: Post processing - HTML
-4:33:28 PM: Uploading Cache of size 43.5MB
-4:33:28 PM: Finished processing build request in 3.366947302s
-4:33:28 PM: Post processing - header rules
-4:33:29 PM: Post processing - redirect rules
-4:33:29 PM: Post processing done
-4:33:31 PM: Site is live ✨
+10:26:36 PM: build-image version: d7b3813f01c06610bc1723ff1b22446513ee7941 (focal)
+10:26:36 PM: build-image tag: v4.14.3
+10:26:36 PM: buildbot version: 4dcf475b8df8e5368becf6538fc83d1d4914f8fc
+10:26:36 PM: Fetching cached dependencies
+10:26:36 PM: Failed to fetch cache, continuing with build
+10:26:36 PM: Starting to prepare the repo for build
+10:26:36 PM: No cached dependencies found. Cloning fresh repo
+10:26:36 PM: git clone https://github.com/ChintzRuparel/TWODS-CAPITAL-FINAL
+10:26:37 PM: Preparing Git Reference refs/heads/main
+10:26:37 PM: Parsing package.json dependencies
+10:26:38 PM: No build steps found, continuing to publishing
+10:26:38 PM: Starting to deploy site from '/'
+10:26:38 PM: Creating deploy tree 
+10:26:38 PM: Creating deploy upload records
+10:26:38 PM: 0 new files to upload
+10:26:38 PM: 0 new functions to upload
+10:26:38 PM: Starting post processing
+10:26:38 PM: Post processing - HTML
+10:26:39 PM: Uploading Cache of size 43.5MB
+10:26:39 PM: Finished processing build request in 3.5418387s
+10:26:39 PM: Post processing - header rules
+10:26:39 PM: Post processing - redirect rules
+10:26:40 PM: Post processing done
+10:26:42 PM: Site is live ✨
