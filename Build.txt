@@ -1,24 +1,26 @@
-10:26:36 PM: build-image version: d7b3813f01c06610bc1723ff1b22446513ee7941 (focal)
-10:26:36 PM: build-image tag: v4.14.3
-10:26:36 PM: buildbot version: 4dcf475b8df8e5368becf6538fc83d1d4914f8fc
-10:26:36 PM: Fetching cached dependencies
-10:26:36 PM: Failed to fetch cache, continuing with build
-10:26:36 PM: Starting to prepare the repo for build
-10:26:36 PM: No cached dependencies found. Cloning fresh repo
-10:26:36 PM: git clone https://github.com/ChintzRuparel/TWODS-CAPITAL-FINAL
-10:26:37 PM: Preparing Git Reference refs/heads/main
-10:26:37 PM: Parsing package.json dependencies
-10:26:38 PM: No build steps found, continuing to publishing
-10:26:38 PM: Starting to deploy site from '/'
-10:26:38 PM: Creating deploy tree 
-10:26:38 PM: Creating deploy upload records
-10:26:38 PM: 0 new files to upload
-10:26:38 PM: 0 new functions to upload
-10:26:38 PM: Starting post processing
-10:26:38 PM: Post processing - HTML
-10:26:39 PM: Uploading Cache of size 43.5MB
-10:26:39 PM: Finished processing build request in 3.5418387s
-10:26:39 PM: Post processing - header rules
-10:26:39 PM: Post processing - redirect rules
-10:26:40 PM: Post processing done
-10:26:42 PM: Site is live ✨
+2:33:49 PM: build-image version: d7b3813f01c06610bc1723ff1b22446513ee7941 (focal)
+2:33:49 PM: build-image tag: v4.14.3
+2:33:49 PM: buildbot version: 4dcf475b8df8e5368becf6538fc83d1d4914f8fc
+2:33:49 PM: Fetching cached dependencies
+2:33:49 PM: Starting to download cache of 43.5MB
+2:33:50 PM: Finished downloading cache in 394.297436ms
+2:33:50 PM: Starting to extract cache
+2:33:50 PM: Finished extracting cache in 44.809937ms
+2:33:50 PM: Finished fetching cache in 467.543934ms
+2:33:50 PM: Starting to prepare the repo for build
+2:33:50 PM: Preparing Git Reference refs/heads/main
+2:33:50 PM: Parsing package.json dependencies
+2:33:51 PM: No build steps found, continuing to publishing
+2:33:51 PM: Starting to deploy site from '/'
+2:33:51 PM: Creating deploy tree 
+2:33:51 PM: Creating deploy upload records
+2:33:51 PM: 1 new files to upload
+2:33:51 PM: 0 new functions to upload
+2:33:51 PM: Starting post processing
+2:33:52 PM: Post processing - HTML
+2:33:52 PM: Uploading Cache of size 43.5MB
+2:33:52 PM: Post processing - header rules
+2:33:52 PM: Post processing - redirect rules
+2:33:52 PM: Post processing done
+2:33:52 PM: Finished processing build request in 3.140643055s
+2:33:55 PM: Site is live ✨
