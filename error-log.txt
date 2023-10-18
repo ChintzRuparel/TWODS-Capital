@@ -1,0 +1,243 @@
+[{
+	"resource": "/Users/chintzruparel/Documents/GitHub/TWODS-Capital/index.html",
+	"owner": "_generated_diagnostic_collection_name_#1",
+	"severity": 8,
+	"message": "';' expected.",
+	"source": "javascript",
+	"startLineNumber": 146,
+	"startColumn": 12,
+	"endLineNumber": 146,
+	"endColumn": 13
+},{
+	"resource": "/Users/chintzruparel/Documents/GitHub/TWODS-Capital/index.html",
+	"owner": "_generated_diagnostic_collection_name_#1",
+	"severity": 8,
+	"message": "';' expected.",
+	"source": "javascript",
+	"startLineNumber": 204,
+	"startColumn": 19,
+	"endLineNumber": 204,
+	"endColumn": 20
+},{
+	"resource": "/Users/chintzruparel/Documents/GitHub/TWODS-Capital/index.html",
+	"owner": "_generated_diagnostic_collection_name_#1",
+	"severity": 8,
+	"message": "';' expected.",
+	"source": "javascript",
+	"startLineNumber": 205,
+	"startColumn": 15,
+	"endLineNumber": 205,
+	"endColumn": 16
+},{
+	"resource": "/Users/chintzruparel/Documents/GitHub/TWODS-Capital/index.html",
+	"owner": "_generated_diagnostic_collection_name_#1",
+	"severity": 8,
+	"message": "';' expected.",
+	"source": "javascript",
+	"startLineNumber": 206,
+	"startColumn": 18,
+	"endLineNumber": 206,
+	"endColumn": 19
+},{
+	"resource": "/Users/chintzruparel/Documents/GitHub/TWODS-Capital/index.html",
+	"owner": "_generated_diagnostic_collection_name_#1",
+	"severity": 8,
+	"message": "';' expected.",
+	"source": "javascript",
+	"startLineNumber": 207,
+	"startColumn": 16,
+	"endLineNumber": 207,
+	"endColumn": 17
+},{
+	"resource": "/Users/chintzruparel/Documents/GitHub/TWODS-Capital/index.html",
+	"owner": "_generated_diagnostic_collection_name_#1",
+	"severity": 8,
+	"message": "';' expected.",
+	"source": "javascript",
+	"startLineNumber": 208,
+	"startColumn": 10,
+	"endLineNumber": 208,
+	"endColumn": 11
+},{
+	"resource": "/Users/chintzruparel/Documents/GitHub/TWODS-Capital/index.html",
+	"owner": "_generated_diagnostic_collection_name_#1",
+	"severity": 8,
+	"message": "';' expected.",
+	"source": "javascript",
+	"startLineNumber": 209,
+	"startColumn": 11,
+	"endLineNumber": 209,
+	"endColumn": 12
+},{
+	"resource": "/Users/chintzruparel/Documents/GitHub/TWODS-Capital/index.html",
+	"owner": "_generated_diagnostic_collection_name_#1",
+	"severity": 8,
+	"message": "';' expected.",
+	"source": "javascript",
+	"startLineNumber": 533,
+	"startColumn": 29,
+	"endLineNumber": 533,
+	"endColumn": 30
+},{
+	"resource": "/Users/chintzruparel/Documents/GitHub/TWODS-Capital/index.html",
+	"owner": "_generated_diagnostic_collection_name_#1",
+	"severity": 8,
+	"message": "';' expected.",
+	"source": "javascript",
+	"startLineNumber": 534,
+	"startColumn": 28,
+	"endLineNumber": 534,
+	"endColumn": 29
+},{
+	"resource": "/Users/chintzruparel/Documents/GitHub/TWODS-Capital/index.html",
+	"owner": "_generated_diagnostic_collection_name_#1",
+	"severity": 8,
+	"message": "';' expected.",
+	"source": "javascript",
+	"startLineNumber": 535,
+	"startColumn": 33,
+	"endLineNumber": 535,
+	"endColumn": 34
+},{
+	"resource": "/Users/chintzruparel/Documents/GitHub/TWODS-Capital/index.html",
+	"owner": "_generated_diagnostic_collection_name_#1",
+	"severity": 8,
+	"message": "';' expected.",
+	"source": "javascript",
+	"startLineNumber": 536,
+	"startColumn": 36,
+	"endLineNumber": 536,
+	"endColumn": 37
+},{
+	"resource": "/Users/chintzruparel/Documents/GitHub/TWODS-Capital/index.html",
+	"owner": "_generated_diagnostic_collection_name_#1",
+	"severity": 8,
+	"message": "';' expected.",
+	"source": "javascript",
+	"startLineNumber": 537,
+	"startColumn": 29,
+	"endLineNumber": 537,
+	"endColumn": 30
+},{
+	"resource": "/Users/chintzruparel/Documents/GitHub/TWODS-Capital/index.html",
+	"owner": "_generated_diagnostic_collection_name_#1",
+	"severity": 8,
+	"message": "';' expected.",
+	"source": "javascript",
+	"startLineNumber": 556,
+	"startColumn": 27,
+	"endLineNumber": 556,
+	"endColumn": 28
+},{
+	"resource": "/Users/chintzruparel/Documents/GitHub/TWODS-Capital/index.html",
+	"owner": "_generated_diagnostic_collection_name_#1",
+	"severity": 8,
+	"message": "';' expected.",
+	"source": "javascript",
+	"startLineNumber": 557,
+	"startColumn": 26,
+	"endLineNumber": 557,
+	"endColumn": 27
+},{
+	"resource": "/Users/chintzruparel/Documents/GitHub/TWODS-Capital/index.html",
+	"owner": "_generated_diagnostic_collection_name_#1",
+	"severity": 8,
+	"message": "';' expected.",
+	"source": "javascript",
+	"startLineNumber": 558,
+	"startColumn": 31,
+	"endLineNumber": 558,
+	"endColumn": 32
+},{
+	"resource": "/Users/chintzruparel/Documents/GitHub/TWODS-Capital/index.html",
+	"owner": "_generated_diagnostic_collection_name_#1",
+	"severity": 8,
+	"message": "';' expected.",
+	"source": "javascript",
+	"startLineNumber": 559,
+	"startColumn": 34,
+	"endLineNumber": 559,
+	"endColumn": 35
+},{
+	"resource": "/Users/chintzruparel/Documents/GitHub/TWODS-Capital/index.html",
+	"owner": "_generated_diagnostic_collection_name_#1",
+	"severity": 8,
+	"message": "';' expected.",
+	"source": "javascript",
+	"startLineNumber": 560,
+	"startColumn": 27,
+	"endLineNumber": 560,
+	"endColumn": 28
+},{
+	"resource": "/Users/chintzruparel/Documents/GitHub/TWODS-Capital/index.html",
+	"owner": "_generated_diagnostic_collection_name_#1",
+	"severity": 8,
+	"message": "';' expected.",
+	"source": "javascript",
+	"startLineNumber": 580,
+	"startColumn": 27,
+	"endLineNumber": 580,
+	"endColumn": 28
+},{
+	"resource": "/Users/chintzruparel/Documents/GitHub/TWODS-Capital/index.html",
+	"owner": "_generated_diagnostic_collection_name_#1",
+	"severity": 8,
+	"message": "';' expected.",
+	"source": "javascript",
+	"startLineNumber": 581,
+	"startColumn": 26,
+	"endLineNumber": 581,
+	"endColumn": 27
+},{
+	"resource": "/Users/chintzruparel/Documents/GitHub/TWODS-Capital/index.html",
+	"owner": "_generated_diagnostic_collection_name_#1",
+	"severity": 8,
+	"message": "';' expected.",
+	"source": "javascript",
+	"startLineNumber": 582,
+	"startColumn": 31,
+	"endLineNumber": 582,
+	"endColumn": 32
+},{
+	"resource": "/Users/chintzruparel/Documents/GitHub/TWODS-Capital/index.html",
+	"owner": "_generated_diagnostic_collection_name_#1",
+	"severity": 8,
+	"message": "';' expected.",
+	"source": "javascript",
+	"startLineNumber": 583,
+	"startColumn": 34,
+	"endLineNumber": 583,
+	"endColumn": 35
+},{
+	"resource": "/Users/chintzruparel/Documents/GitHub/TWODS-Capital/index.html",
+	"owner": "_generated_diagnostic_collection_name_#1",
+	"severity": 8,
+	"message": "';' expected.",
+	"source": "javascript",
+	"startLineNumber": 584,
+	"startColumn": 27,
+	"endLineNumber": 584,
+	"endColumn": 28
+},{
+	"resource": "/Users/chintzruparel/Documents/GitHub/TWODS-Capital/index.html",
+	"owner": "_generated_diagnostic_collection_name_#1",
+	"code": "emptyRules",
+	"severity": 4,
+	"message": "Do not use empty rulesets",
+	"source": "css",
+	"startLineNumber": 611,
+	"startColumn": 270,
+	"endLineNumber": 611,
+	"endColumn": 272
+},{
+	"resource": "/Users/chintzruparel/Documents/GitHub/TWODS-Capital/index.html",
+	"owner": "_generated_diagnostic_collection_name_#1",
+	"code": "emptyRules",
+	"severity": 4,
+	"message": "Do not use empty rulesets",
+	"source": "css",
+	"startLineNumber": 621,
+	"startColumn": 262,
+	"endLineNumber": 621,
+	"endColumn": 264
+}]
