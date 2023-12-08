@@ -1,2 +1,0 @@
-This text file was just pushed to generate a mock build which can generate light house score
-Cheers 🥂 
